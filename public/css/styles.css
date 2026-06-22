@@ -1,7 +1,7 @@
 /* outfit-300 - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Outfit';
+  font-family: 'Outfit-300';
   font-style: normal;
   font-weight: 300;
   src: url('/public/fontoutfit-v15-latin-300.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
@@ -9,7 +9,7 @@
 /* outfit-900 - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Outfit';
+  font-family: 'Outfit-900';
   font-style: normal;
   font-weight: 900;
   src: url('/public/fontoutfit-v15-latin-900.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
@@ -20,8 +20,9 @@
     --slate-300: hsl(212, 45%, 89%);
     --slate-500: hsl(216, 15%, 48%);
     --slate-900: hsl(218, 44%, 22%);
-    
-    --outfit: "Outfit", san-serif;
+
+    --outfit-300: "Outfit-300";
+    --outfit-900: "Outfit-900";
 }
 
 * {
@@ -30,16 +31,13 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: var(--outfit);
-}
-
 h1 {
     font-size: 22px;
     line-height: 120%;
     letter-spacing: 0px;
     font-weight: 700;
     color: var(--slate-900);
+    font-family: var(--outfit-900);
 }
 
 h2 {
@@ -48,6 +46,7 @@ h2 {
     letter-spacing: 0.2;
     font-weight: 300;
     color: var(--slate-500);
+    font-family: var(--outfit-300)
 }
 
 main {
