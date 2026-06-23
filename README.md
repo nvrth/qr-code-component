@@ -34,4 +34,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [mdn](https://developer.mozilla.org/en-US/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 - [markup validation service](https://validator.w3.org/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 - [PageSpeed Insights](https://pagespeed.web.dev/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Squoosh](https://squoosh.app/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
