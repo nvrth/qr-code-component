@@ -1,18 +1,22 @@
+# Dependencies (recreated via install)
 node_modules/
 jspm_packages/
 web_modules/
 
+# Secrets & API keys
 .env
 .env.local
 .env.*.local
 *.env
 
+# Production builds & tool caches
 dist/
 build/
 out/
 .cache/
 .parcel-cache/
 
+# Logs & lint caches
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -21,11 +25,13 @@ pnpm-debug.log*
 logs/
 *.log
 
+# OS clutter (Mac/Windows)
 .DS_Store
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 
+# IDE & Editor settings
 .vscode/
 .idea/
 *.suo
