@@ -63,7 +63,8 @@ main {
     flex-direction: column;
     gap: 24px;
     border-radius: 1rem;
-    box-shadow: 2px 2px 10px 0px var(--slate-500); /* offset-x, offset-y, blur-radius, spread-radius */
+    /* box-shadow: 2px 2px 10px 0px var(--slate-500);  */
+    /* offset-x, offset-y, blur-radius, spread-radius */
 }
 
 .card img {
