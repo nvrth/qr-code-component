@@ -28,17 +28,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS Grid
 - Mobile-first workflow
 
-### Useful resources
-
+### Useful Resources
+ 
 #### Documentation & Learning Resources
-- [mdn](https://developer.mozilla.org/en-US/) - A documentation library for web standards. This is an amazing reference resource which helped me finally understand the intricacies of modern CSS and HTML layouts. I'd recommend it to anyone still learning web development.
-
+- [MDN](https://developer.mozilla.org/en-US/) — Web standards documentation maintained by Mozilla. Used it to get a solid grip on modern CSS and HTML layout behaviour.
 #### Asset Management & Development Utilities
-- [google-webfonts-helper](https://gwfh.mranftl.com/fonts) - A tool for downloading and self-hosting web fonts. This helped me effortlessly host fonts locally. I really liked this pattern for absolute control over font loading and will use it going forward.
-
+- [google-webfonts-helper](https://gwfh.mranftl.com/fonts) — Downloads Google Fonts for self-hosting. Used it to serve fonts locally for full control over font loading.
 #### Code Quality & Best Practices
-- [markup validation service](https://validator.w3.org/) - An HTML code scanner created by the W3C. This is an essential checker which helped me finally understand why cleanly structured HTML is so important for cross-browser stability. I'd recommend it to anyone still learning validation standards.
-
+- [Markup Validation Service](https://validator.w3.org/) — HTML validator by the W3C. Used it to catch structural issues and understand why clean markup matters for cross-browser stability.
 #### Performance & Optimization Tools
-- [PageSpeed Insights](https://pagespeed.web.dev/) - A website performance analyzer by Google. This is an amazing diagnostics tool which helped me finally understand server response times and script deferring. I'd recommend it to anyone trying to achieve a 100/100 performance score.
-- [Squoosh](https://squoosh.app/) - An image compression web app by Google. This is an amazing visual compressor which helped me finally understand the difference between WebP, MozJPEG, and AVIF formats. I'd recommend it to anyone building media-heavy websites.
+- [PageSpeed Insights](https://pagespeed.web.dev/) — Performance analyser by Google. Used it to diagnose server response times and get script deferring right.
+- [Squoosh](https://squoosh.app/) — Image compression tool by Google. Used it to convert and compress images into WebP, MozJPEG, and AVIF formats.
+
