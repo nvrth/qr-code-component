@@ -1,4 +1,4 @@
-import qrCode from "@/assets/images/image-qr-code.png";
+import qrCode from "./assets/images/image-qr-code.webp";
 
 export default function App() {
   return (
